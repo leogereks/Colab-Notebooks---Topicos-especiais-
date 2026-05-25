@@ -1,6 +1,6 @@
-# Topicos especiais - analise textual
+# Topicos especiais - analise
 
-Repositorio com os notebooks e arquivos de dados utilizados na pratica de segmentacao, POS tagging, NER e analise de dados textuais.
+Repositorio com os notebooks e arquivos de dados utilizados na pratica de segmentacao, POS tagging, NER e analise de dados.
 
 ## Estrutura
 
